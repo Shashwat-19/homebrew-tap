@@ -7,7 +7,7 @@ cask "dropnotch" do
   desc "Turns the MacBook notch into a productivity surface"
   homepage "https://github.com/Shashwat-19/DropNotch"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "DropNotch.app"
 
