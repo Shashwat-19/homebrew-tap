@@ -1,6 +1,6 @@
 cask "dropnotch" do
-  version "0.3.1"
-  sha256 "126521cca57e4bdcd0a256abf767d9364000ec736d9f5e034f53e40fb2c6e510"
+  version "0.3.2"
+  sha256 "61927c4d610e86a3edd463b663f050961cc432fa83fb642cd82f550e5908333f"
 
   url "https://github.com/Shashwat-19/DropNotch/releases/download/v#{version}/DropNotch-#{version}.dmg"
   name "DropNotch"
